@@ -1,6 +1,21 @@
 # jest-another-RPG
   ### By likica * [Email me](mailto:fahrija_wyroski@live.com) * 
  
+<br></br>
+
+<p align="center">
+    <img src="https://img.shields.io/github/repo-size/likica/jest-another-RPG" />
+    <img src="https://img.shields.io/github/issues/likica/jest-another-RPG" />
+    <img src="https://img.shields.io/github/last-commit/likica/jest-another-RPG" >
+    </a>
+</p>
+  
+<p align="center">
+<img src="https://img.shields.io/badge/-node.js-green" />
+    <img src="https://img.shields.io/badge/Javascript-blue" />
+    <img src="https://img.shields.io/badge/-inquirer-red" >
+</p>
+
   ## Table of contents
   * [Description](#Description)
   * [Installation Instructions](#installation-Instructions)

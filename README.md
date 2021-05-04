@@ -1,7 +1,6 @@
 # jest-another-RPG
   ### By likica * [Email me](mailto:fahrija_wyroski@live.com) * 
- 
-<br></br>
+
 
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/likica/jest-another-RPG" />

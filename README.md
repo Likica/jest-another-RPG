@@ -1,5 +1,5 @@
 # jest-another-RPG
-  ### By likica * [Email me](mailto:fahrija_wyroski@live.com) * 
+  ### By likica * [Email me](mailto:codefin9@hotmail.com) * 
 
 
 <p align="center">
@@ -50,7 +50,7 @@
 
   ## Questions
   ##### [Back to Table of Contents](#Table-of-Contents)
-  * If you have any questions, please contact me at fahrija_wyroski@live.com
+  * If you have any questions, please [Email me](mailto:codefin9@hotmail.com)
 
   ## License 
   * License Type: MIT
